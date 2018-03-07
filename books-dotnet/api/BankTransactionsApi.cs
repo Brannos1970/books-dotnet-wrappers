@@ -7,7 +7,6 @@ using System.Net.Http;
 using Newtonsoft.Json;
 using zohobooks.model;
 using System.Diagnostics;
-using System.Net.Http.Formatting;
 using zohobooks.util;
 using zohobooks.api;
 using zohobooks.parser;

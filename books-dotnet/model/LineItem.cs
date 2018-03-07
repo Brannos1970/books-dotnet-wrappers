@@ -195,5 +195,10 @@ namespace zohobooks.model
         /// Custom fields for line item
         /// </summary>
         public List<CustomField> item_custom_fields { get; set; }
+        /// <summary>
+        /// Gets or sets the customer_id.
+        /// </summary>
+        /// <value>The customer_id.</value>
+        public string customer_id { get; set; }
     }
 }
